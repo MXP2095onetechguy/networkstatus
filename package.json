@@ -1,5 +1,5 @@
 {
-  "name": "NetworkStatus",
+  "name": "networkcheck",
   "version": "1.0.0",
   "description": "Check your network connection status",
   "main": "index.mjs",
@@ -14,7 +14,7 @@
     "Network",
     "Checker"
   ],
-  "author": "MXPSQL-Server-20953-Onetechguy",
+  "author": "mxpsql-server-20953-onetechguy",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/MXP2095onetechguy/networkstatus/issues"
