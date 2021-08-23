@@ -1,0 +1,23 @@
+{
+  "name": "NetworkStatus",
+  "version": "1.0.0",
+  "description": "Check your network connection status",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MXP2095onetechguy/networkstatus.git"
+  },
+  "keywords": [
+    "Network",
+    "Checker"
+  ],
+  "author": "MXPSQL-Server-20953-Onetechguy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MXP2095onetechguy/networkstatus/issues"
+  },
+  "homepage": "https://github.com/MXP2095onetechguy/networkstatus#readme"
+}
